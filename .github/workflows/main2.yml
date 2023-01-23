@@ -67,3 +67,4 @@ jobs:
         environment_name: Multifib-env
         version_label: lab12
         region: us-east-1
+        deployment_package: deploy.zip
